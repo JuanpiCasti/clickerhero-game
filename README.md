@@ -1,4 +1,5 @@
 # "Clicker Hero"
+Made using the Wollok programming language (https://www.wollok.org/) for the Programming Paradigms course in UTN FRBA to apply what we learnt in class about the Object Oriented Paradigm.
 
 ## Equipo de Desarrollo
 
@@ -7,6 +8,7 @@
 - Juan Pablo Castiglione
 - María Guadalupe Fernández
 - Abril Caruso
+(All tagged as collaborators)
 
 ## Links
 
